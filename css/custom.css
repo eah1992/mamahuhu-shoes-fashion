@@ -1,0 +1,114 @@
+.carousel-caption {
+    background: rgba(0,0,0,0.3);
+    padding: 1em;
+    margin-bottom: 0.5em;
+    font-family: "Georgia", serif;
+}
+
+.social-media {
+  padding: 0.25em;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.img-mamahuhu {
+height: 100vh;
+background: url(../images/mamahuhu1.jpg);
+background-size: cover;
+}
+
+.img-mamahuhu2 {
+height: 100vh;
+background: url(../images/mamahuhu2.jpg);
+background-size: cover;
+}
+
+.blog-footer {
+  width: 100%auto;
+  height: 125px;
+  background:  black;
+}
+
+.lead {
+    font-size: 22px;
+    font-family: georgia;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 400 16px/18px 'Crimson Text', serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+
+}
+
+body {
+font-family: 'Crimson Text', serif;
+    font-size: 18px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.quote.custom__17.custom__9.custom__8 {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.editorials__center-quote {
+    display: block;
+    letter-spacing: 0px;
+    font: 700 20px/26px "Chronicle Display A", "Chronicle Display B", serif;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    font-style: italic;
+    float: none;
+}
+
+.editorials__center-quote {
+    width: 100%;
+    margin: 20px auto;
+    padding: 37px 0;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+
+}
+
+.editorials__center-quote:after, .editorials__center-quote:before {
+    position: absolute;
+    left: 45.5%;
+}
+
+.editorials__center-quote:before {
+    padding: 1%;
+    background: white;
+    width: 80px;
+    height: 30px;
+    display: block;
+    letter-spacing: 0px;
+    font: 900 60px/25px "Chronicle Display A", "Chronicle Display B", serif;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+.editorials__center-quote:after, .editorials__center-quote:before {
+    position: relative;
+    left: 45.5%;
+    right: 45.5%;
+    padding: 1%;
+    background: white;
+    width: 80px;
+    height: 30px;
+    display: block;
+    letter-spacing: 0px;
+    font: 900 60px/25px "Chronicle Display A", "Chronicle Display B", serif;
+    text-rendering: optimizeLegibility;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
